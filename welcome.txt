@@ -5,4 +5,4 @@ chech the log of this branch you should see a commit with message "initial commi
 
 checkout to add-commit branch
 
-Hey there..
+Hey there..How are you doing ?
